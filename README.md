@@ -35,3 +35,10 @@ The servers can connect to the internet by using the **NAT gateway**. The server
 
 ### 8. Final Output
 ![Final Output](assets/output.png)
+
+## References
+
+For more details on setting up and cleaning up NAT Gateways and private subnets, check the official AWS documentation:  
+
+🔗 [AWS VPC Example – Private Subnets with NAT](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html#clean-up-private-subnets)
+
