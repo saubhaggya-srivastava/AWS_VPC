@@ -16,10 +16,10 @@ The servers can connect to the internet by using the **NAT gateway**. The server
 ![VPC Creation](assets/VPC.png)
 
 ### 2. Subnets & Router tableConfiguration
-![Subnets & Router](assets/Subnets and Router Table.png)
+![Subnets & Router](assets/Subnets_and_Router_Table.png)
 
 ### 3. Security Groups
-![Security Groups](assets/Security Group.png)
+![Security Groups](assets/Security_Group.png)
 
 ### 4. Load Balancer Setup
 ![Load Balancer](assets/Load_Balancer.png)
