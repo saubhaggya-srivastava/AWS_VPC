@@ -36,6 +36,10 @@ The servers can connect to the internet by using the **NAT gateway**. The server
 ### 8. Final Output
 ![Final Output](assets/output.png)
 
+## Conclusion
+
+This project demonstrates the setup of a secure and scalable AWS VPC infrastructure with private and public subnets, NAT gateways, Auto Scaling, and a bastion host. The architecture ensures controlled internet access while maintaining high availability and security. By following this setup, users can efficiently deploy and manage workloads in a cloud environment.
+
 ## References
 
 For more details on setting up and cleaning up NAT Gateways and private subnets, check the official AWS documentation:  
