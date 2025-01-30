@@ -1,4 +1,4 @@
-# AWS_VPC
+# AWS VPC with servers in private subnets and NAT
 ## Architecture Overview
 
 The following diagram provides an overview of the resources included in this example.  
