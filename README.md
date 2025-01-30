@@ -23,3 +23,15 @@ The servers can connect to the internet by using the **NAT gateway**. The server
 
 ### 4. Load Balancer Setup
 ![Load Balancer](assets/Load_Balancer.png)
+
+### 5. Auto Scaling
+![Auto Scaling](assets/Auto-scaling.png)
+
+### 6. Bastion Host & Servers
+![Bastion Host & Servers](assets/Bastion_Host_and_servers.png)
+
+### 7. NAT Gateways
+![NAT Gateways](assets/Nat_Gateways.png)
+
+### 8. Final Output
+![Final Output](assets/output.png)
