@@ -9,3 +9,17 @@ The servers run in the **private subnets**, are launched and terminated by using
 The servers can connect to the internet by using the **NAT gateway**. The servers can connect to **Amazon S3** by using a **gateway VPC endpoint**.
 
 ![Architecture Diagram](assets/Architecture.png)
+
+## AWS Setup Screenshots
+
+### 1. VPC Creation
+![VPC Creation](assets/VPC.png)
+
+### 2. Subnets & Router tableConfiguration
+![Subnets & Router](assets/Subnets and Router Table.png)
+
+### 3. Security Groups
+![Security Groups](assets/Security Group.png)
+
+### 4. Load Balancer Setup
+![Load Balancer](assets/Load_Balancer.png)
